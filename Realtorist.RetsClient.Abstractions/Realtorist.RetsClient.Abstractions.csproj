@@ -3,16 +3,16 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <PackageId>Realtorist.RetsClient.Abstractions</PackageId>
-    <Version>0.0.2</Version>
+    <Version>0.0.3</Version>
     <Authors>Dmytro Bondarchuk</Authors>
     <Title>Realtorist.RetsClient.Abstractions</Title>
     <Description>RETS client abstractions for the Realtorist framework</Description>
     <RepositoryUrl>https://github.com/realtorist/Realtorist.RetsClient.Abstractions</RepositoryUrl>
-    <ReleaseNotes>Updated Models lib</ReleaseNotes>
+    <ReleaseNotes>Decoupling listing feed</ReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Realtorist.Models" Version="0.0.2" />
+    <PackageReference Include="Realtorist.Models" Version="0.0.3" />
   </ItemGroup>
 
 </Project>
