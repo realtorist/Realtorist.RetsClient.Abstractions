@@ -1,5 +1,4 @@
 using System;
-using Realtorist.Models.Listings.Enums;
 
 namespace Realtorist.RetsClient.Abstractions
 {
